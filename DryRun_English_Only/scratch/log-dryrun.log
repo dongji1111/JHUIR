@@ -1,0 +1,136 @@
+八月 12, 2021 4:40:31 下午 EnglishQueryFormulator.EngQueryGen <init>
+信息: ... starting to log
+八月 12, 2021 4:41:25 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T1-r1 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:41:25 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T1-r1
+八月 12, 2021 4:41:49 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T1-r2 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:41:49 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T1-r2
+八月 12, 2021 4:42:14 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T1-r4 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:42:14 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T1-r4
+八月 12, 2021 4:42:41 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T1-r5 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:42:41 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T1-r5
+八月 12, 2021 4:42:56 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T2-r1 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:42:56 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T2-r1
+八月 12, 2021 4:43:12 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T2-r2 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:43:12 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T2-r2
+八月 12, 2021 4:43:27 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T2-r3 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:43:27 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T2-r3
+八月 12, 2021 4:43:41 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T2-r4 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:43:41 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T2-r4
+八月 12, 2021 4:43:54 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T2-r5 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:43:54 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T2-r5
+八月 12, 2021 4:44:04 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T3-r1 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:44:04 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T3-r1
+八月 12, 2021 4:44:14 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T3-r2 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:44:14 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T3-r2
+八月 12, 2021 4:44:22 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T3-r3
+八月 12, 2021 4:44:30 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T3-r4
+八月 12, 2021 4:44:39 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T3-r5
+八月 12, 2021 4:44:47 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T3-r6 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:44:47 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T3-r6
+八月 12, 2021 4:45:11 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T4-r1 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:45:11 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T4-r1
+八月 12, 2021 4:45:34 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T4-r2 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:45:34 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T4-r2
+八月 12, 2021 4:45:56 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T4-r3 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:45:56 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T4-r3
+八月 12, 2021 4:46:19 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T4-r4 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:46:19 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T4-r4
+八月 12, 2021 4:46:47 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T4-r5 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:46:47 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T4-r5
+八月 12, 2021 4:47:13 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T4-r6 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:47:13 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T4-r6
+八月 12, 2021 4:47:39 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T4-r7 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:47:39 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T4-r7
+八月 12, 2021 4:47:50 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T5-r1 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:47:50 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T5-r1
+八月 12, 2021 4:48:01 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T5-r2 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:48:01 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T5-r2
+八月 12, 2021 4:48:12 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T5-r3 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:48:12 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T5-r3
+八月 12, 2021 4:48:22 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T5-r4 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:48:22 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T5-r4
+八月 12, 2021 4:48:32 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T5-r5 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:48:32 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T5-r5
+八月 12, 2021 4:48:43 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T5-r6 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:48:43 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T5-r6
+八月 12, 2021 4:49:36 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T6-r1 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:49:36 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T6-r1
+八月 12, 2021 4:50:29 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T6-r2 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:50:29 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T6-r2
+八月 12, 2021 4:51:20 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T6-r3 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:51:20 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T6-r3
+八月 12, 2021 4:52:13 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T6-r4 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:52:13 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T6-r4
+八月 12, 2021 4:52:31 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T7-r1 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:52:31 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T7-r1
+八月 12, 2021 4:52:47 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T7-r2 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:52:47 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T7-r2
+八月 12, 2021 4:53:02 下午 EnglishQueryFormulator.EngQueryGen queryGenerator
+警告: --- queryGenerator - MainSearcher : Formulated Query for queryID : DR-T7-r3 : exceeded max-lucene QueryParser length, so truncating !
+八月 12, 2021 4:53:02 下午 EnglishQueryFormulator.EngQueryGen mainEngQueryConstruction
+信息: ---- Finished generating req-query - DR-T7-r3

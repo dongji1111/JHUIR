@@ -2,6 +2,7 @@ Data on CLSP:
 DryRun Corpus: /export/fs04/a12/mahsay/BETTER/data/raw/English-IR-data
 DryRun taskfile: /export/fs04/a12/mahsay/BETTER/data/IR_dry_run_outputs/dry-run-assessments/dry-run-topics.final.json
 
+Scoring tool on CLSP
 Scoring tools under this dir: /export/fs04/a12/ytao23/IR_Dry_Run_Outputs/
   the script is better_ir_scorer.py, some ref files for running the script are also under this dir: dry-run-topics.final.json; req-qrels; extr-qrels
       the way to run scoring tool: python better_ir_scorer.py -d dry-run-topics.final.json req-qrels extr-qrels English.dryrun.output.txt
